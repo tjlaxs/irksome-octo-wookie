@@ -1,6 +1,8 @@
 = Test
 :toc:
-:toc-placement: preamble
+:toc-placement!:
+
+toc::[]
 
 [[first-chapter]]
 First chapter
