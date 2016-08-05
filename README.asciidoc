@@ -29,7 +29,7 @@ facilisissem. Nullam nec mi et neque pharetra sollicitudin. Praesent
 imperdiet mi necante...
 
 [[second-chapter-1]]
-First chapter
+Second chapter
 -------------
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam
